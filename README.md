@@ -7,7 +7,7 @@ Web Developper and volunteer
 
 I've Been coding for a while time to join your team grow my skills and buid exciting projects toghether!
 
-* 🌍  I'm based in Born Guinean living in Paris France
+* 🌍  I'm based in Paris France ,Guinean
 * ✉️  You can contact me at [laminesjalloh@gmail.com](mailto:laminesjalloh@gmail.com)
 * 🧠  I'm learning Nodesjs
 * ⚡  seemingly shy but very friendly and quirky in a good way!
