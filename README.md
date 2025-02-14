@@ -8,8 +8,8 @@ Web Developper   and volunteer at Utopia 56 Paris
 I've Been coding for a while. Time to join your team,grow my skills and buid exciting projects toghether!
 
 * 🌍  I'm based in Paris France ,Guinean
-* ✉️  You can contact me at [laminesjalloh@gmail.com](mailto:laminesjalloh@gmail.com)
-* 🧠  I'm learning Nodesjs
+* ✉️  You can contact me at [diallomolamine2015@gmail.com](mailto:diallomolamine2015@gmail.com)
+* 🧠  I'm learning DJANGO
 * ⚡  seemingly shy but very friendly and quirky in a good way!
 
 <a href="https://www.github.com/laminesdiallo" target="_blank" rel="noreferrer"><img
