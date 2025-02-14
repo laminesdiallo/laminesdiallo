@@ -5,7 +5,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developper   and volunteer at Utopia 56 Paris
 ----------------------------
 
-I've Been coding for a while time to join your team grow my skills and buid exciting projects toghether!
+I've Been coding for a while. Time to join your team,grow my skills and buid exciting projects toghether!
 
 * 🌍  I'm based in Paris France ,Guinean
 * ✉️  You can contact me at [laminesjalloh@gmail.com](mailto:laminesjalloh@gmail.com)
